@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GNTest</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="license">-- BEGIN LICENSE v1.0 69711366 --\r\nname: \r\nnotes: Gracenote Open Developer Program\r\nstart_date: 0000-00-00\r\nclient_id: 12253184\r\nmusicid_file: enabled\r\nmusicid_text: enabled\r\nmusicid_stream: enabled\r\nmusicid_cd: enabled\r\nplaylist: enabled\r\nvideoid: enabled\r\nvideo_explore: enabled\r\nlocal_images: enabled\r\nlocal_mood: enabled\r\nvideoid_explore: enabled\r\nacr: enabled\r\nepg: enabled\r\n-- SIGNATURE 69711366 --\r\nlAADAgAeYdx+Iu6VibOnUckK0aFTqpkC35P1H78Bl5CHydx+AB6mxgSjPOxT+09IylIJEBbdHCyytdiJyzCFWWEyV4U=\r\n-- END LICENSE 69711366 --\r\n</string>
+</resources>
